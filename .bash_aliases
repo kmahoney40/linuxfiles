@@ -92,11 +92,15 @@ alias ll='ls -la'
 #alias la='ls -A'
 #alias l='ls -CF'
 
+alias hg='history | grep'
+
 alias p3="python3"
 alias shutd="sudo shutdown -h now"
 alias gits="git status"
 alias ga="git add"
 alias gc="git commit"
+
+alias ifc='ifconfig'
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
